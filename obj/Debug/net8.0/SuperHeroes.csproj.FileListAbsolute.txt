@@ -1,0 +1,14 @@
+C:\Programacion\SuperHeroes\bin\Debug\net8.0\SuperHeroes.exe
+C:\Programacion\SuperHeroes\bin\Debug\net8.0\SuperHeroes.deps.json
+C:\Programacion\SuperHeroes\bin\Debug\net8.0\SuperHeroes.runtimeconfig.json
+C:\Programacion\SuperHeroes\bin\Debug\net8.0\SuperHeroes.dll
+C:\Programacion\SuperHeroes\bin\Debug\net8.0\SuperHeroes.pdb
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.AssemblyInfoInputs.cache
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.AssemblyInfo.cs
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.dll
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\refint\SuperHeroes.dll
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.pdb
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\SuperHeroes.genruntimeconfig.cache
+C:\Programacion\SuperHeroes\obj\Debug\net8.0\ref\SuperHeroes.dll
